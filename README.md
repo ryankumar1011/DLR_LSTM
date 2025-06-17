@@ -1,7 +1,7 @@
 
 # Battery State of Charge (SOC) Estimation using LSTM
 
-This is a stacked LSTM SOC (State of Charge) Estimation model I built while interning at DLR.
+This is a stacked LSTM SOC (State of Charge) Estimation model I built while interning at The German Aerospace Center (DLR).
 
 This project models battery performance in dynamic operating conditions using drive cycle test data from multiple open-source datasets. The implementation uses a black-box neural network approach with LSTM models to add non-linearity and adapt to noisy data, making it well-suited for forecasting time-series data like SOC.
 
